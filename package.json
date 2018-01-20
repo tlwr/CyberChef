@@ -68,7 +68,7 @@
   },
   "dependencies": {
     "babel-polyfill": "^6.26.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^4.0.0",
     "bootstrap-colorpicker": "^2.5.2",
     "bootstrap-switch": "^3.3.4",
     "crypto-api": "^0.7.5",
