@@ -6,6 +6,7 @@ import BCD from "../operations/BCD.js";
 import BitwiseOp from "../operations/BitwiseOp.js";
 import ByteRepr from "../operations/ByteRepr.js";
 import CharEnc from "../operations/CharEnc.js";
+import Charts from "../operations/Charts.js";
 import Cipher from "../operations/Cipher.js";
 import Code from "../operations/Code.js";
 import Compress from "../operations/Compress.js";

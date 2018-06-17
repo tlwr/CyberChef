@@ -361,6 +361,10 @@ const Categories = [
             "Comment"
         ]
     },
+    {
+        name: "Charts",
+        ops: [],
+    }
 ];
 
 export default Categories;
