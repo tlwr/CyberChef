@@ -4334,6 +4334,15 @@ const OperationConfig = {
             },
         ]
     },
+    "Timeseries chart": {
+        module: "Charts",
+        description: [
+        ].join("\n"),
+        inputType: "string",
+        outputType: "html",
+        args: [
+        ]
+    },
 };
 
 

@@ -5,6 +5,7 @@ import Charts from "../../operations/Charts.js";
  * Charts module.
  *
  * Libraries:
+ * - d3
  *
  * @author tlwr [toby@toby.codes]
  * @author Matt C [matt@artemisbot.uk]
@@ -14,6 +15,7 @@ import Charts from "../../operations/Charts.js";
 let OpModules = typeof self === "undefined" ? {} : self.OpModules || {};
 
 OpModules.Charts = {
+    "Timeseries chart": Charts.runTimeseries,
 };
 
 export default OpModules;
