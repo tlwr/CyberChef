@@ -95,7 +95,7 @@
     "jsesc": "^2.5.1",
     "jsonpath": "^1.0.0",
     "jsrsasign": "8.0.12",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.11",
     "loglevel": "^1.6.1",
     "kbpgp": "^2.0.77",
     "loglevel-message-prefix": "^3.0.0",
